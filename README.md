@@ -8,3 +8,6 @@ Hi! I'm LilJuiceBox491! I love programming, and it would be a dream to one day b
     
 ### Scratch
 You can also find me on [Scratch](https://scratch.mit.edu/)! I'm LilJuiceBox491 there too! Just click [here](https://scratch.mit.edu/users/LilJuiceBox491), or just go to https://scratch.mit.edu/users/LilJuiceBox491! =D
+
+### Repl
+My repl can be found [here](https://repl.it/@LilJuiceBox491)
