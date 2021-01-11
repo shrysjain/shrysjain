@@ -14,3 +14,6 @@ My repl.it page can be found [here](https://repl.it/@LilJuiceBox491)
 
 ### Glitch
 You can find my Glitch profile [here](https://glitch.com/@LilJuiceBox491)
+
+### Discord
+You can add me on [Discord](https://discord.com/app). I'm LilJuiceBox491#9674 =)
