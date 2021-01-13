@@ -20,7 +20,9 @@ You can add me on [Discord](https://discord.com/app). I'm LilJuiceBox491#9674 =)
 
 ### Activity
 I'm starting to become more busy in real life, so it might take a little time for me to respond to anything
-Scratch Comments - Medium Response Time
-Discord Messages - Medium Response Time
-GitHub Issues - Slow Response Time
+Scratch Comments - Medium Response Time<br>
+Discord Messages - Medium Response Time<br>
+GitHub Issues - Slow Response Time<br>
 Other - Slow/Medium Response Time
+
+### Other
