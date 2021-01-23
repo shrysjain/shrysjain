@@ -1,11 +1,20 @@
-### LilJuiceBox491
+# LilJuiceBox491
+
+### About Me
 Hi! I'm LilJuiceBox491! I love programming, and it would be a dream to one day be a proffesional! I hope you enjoy looking through my works! Alongisde with GitHub, you can see some of my work at: https://repl.it/@LilJuiceBox491, or just look down 
 
-### CH0ICES
+### Discord Bots
+**CH0ICES**
 The CH0ICES project is going well! CH0ICES is 30% until Aplha stage. Below is the top.gg widget<br>
 <a href="https://top.gg/bot/783380994963144796">
     <img src="https://top.gg/api/widget/783380994963144796.svg" alt="CH0ICES" />
 </a>
+
+**Gifter**
+Unforunately I had to drop out of the Gifter bot project
+
+**Water Bot**
+WaterBot is in an alpha state and can be viewed soon on top.gg
     
 ### Scratch
 You can also find me on [Scratch](https://scratch.mit.edu/)! I'm LilJuiceBox491 there too! Just click [here](https://scratch.mit.edu/users/LilJuiceBox491), or just go to https://scratch.mit.edu/users/LilJuiceBox491! =D
@@ -27,4 +36,4 @@ GitHub Issues - Slow Response Time<br>
 Other - Slow/Medium Response Time
 
 ### Other
-Nothin rn. LOL!
+Nothin right now. LOL!
