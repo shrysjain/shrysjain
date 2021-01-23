@@ -10,10 +10,10 @@ The CH0ICES project is going well! CH0ICES is 30% until Aplha stage. Below is th
     <img src="https://top.gg/api/widget/783380994963144796.svg" alt="CH0ICES" />
 </a>
 
-**Gifter**
-Unforunately I had to drop out of the Gifter bot project
+**Gifter**<br>
+Unforunately I had to drop out of the Gifter bot project<br>
 
-**Water Bot**
+**Water Bot**<br>
 WaterBot is in an alpha state and can be viewed soon on top.gg
     
 ### Scratch
