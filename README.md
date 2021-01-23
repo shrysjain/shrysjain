@@ -1,6 +1,6 @@
 # LATEST NEWS
 I am forced to take a break from the internet. I will be offline on all connections for a few weeks. See you then!
-
+<br>
 # Hi! I'm Juicey....
 ### About Me
 Hi! I'm LilJuiceBox491! I love programming, and it would be a dream to one day be a proffesional! I hope you enjoy looking through my works! Alongisde with GitHub, you can see some of my work at: https://repl.it/@LilJuiceBox491, or just look down 
@@ -35,7 +35,7 @@ I'm starting to become more busy in real life, so it might take a little time fo
 Scratch Comments - Medium Response Time<br>
 Discord Messages - Medium Response Time<br>
 GitHub Issues - Slow Response Time<br>
-Other - Slow/Medium Response Time
+Other - Slow/Medium Response Time<br>
 **Please note these times are by average, and will be satisfied if there is no exception. Check the latest news at the top to see**
 
 ### Other
