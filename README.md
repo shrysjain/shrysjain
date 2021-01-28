@@ -16,7 +16,7 @@ The CH0ICES project is going well! CH0ICES is 30% until Aplha stage. Below is th
 Unforunately I had to drop out of the Gifter bot project<br>
 
 **Water Bot**<br>
-WaterBot is in an alpha state and can be viewed soon on top.gg
+WaterBot is in an alpha state and can be viewed [here on top.gg](https://top.gg/bot/799144403138248754)
     
 ### Scratch
 You can also find me on [Scratch](https://scratch.mit.edu/)! I'm LilJuiceBox491 there too! Just click [here](https://scratch.mit.edu/users/LilJuiceBox491), or just go to https://scratch.mit.edu/users/LilJuiceBox491! =D
