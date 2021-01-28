@@ -39,4 +39,4 @@ Other - Slow/Medium Response Time<br>
 **Please note these times are by average, and will be satisfied if there is no exception. Check the latest news at the top to see**
 
 ### Other
-Nothin right now. LOL!
+Nothing else at the moment. LOL!
