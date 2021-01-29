@@ -30,6 +30,9 @@ You can find my Glitch profile [here](https://glitch.com/@LilJuiceBox491)
 ### Discord
 You can add me on [Discord](https://discord.com/app). I'm LilJuiceBox491#9674 =)
 
+### Blog
+You can find my blog [here](https://juiceys-blog.liljuicebox491.repl.co/)
+
 ### Activity
 I'm starting to become more busy in real life, so it might take a little time for me to respond to anything<br>
 Scratch Comments - Medium Response Time<br>
