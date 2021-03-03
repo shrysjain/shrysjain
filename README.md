@@ -19,7 +19,7 @@ The gifter project has been cancelled<br>
 WaterBot is in an alpha state and can be viewed [here on top.gg](https://top.gg/bot/799144403138248754)
     
 ### Scratch
-You can also find me on [Scratch](https://scratch.mit.edu/)! I'm LilJuiceBox491 there too! Just click [here](https://scratch.mit.edu/users/LilJuiceBox491), or just go to https://scratch.mit.edu/users/LilJuiceBox491! =D
+You can also find me on [Scratch](https://scratch.mit.edu/)! I'm LilJuiceBox491 there too! Just click [here](https://scratch.mit.edu/users/LilJuiceBox491), or just go to https://scratch.mit.edu/users/LilJuiceBox491!
 
 ### Repl
 My repl.it page can be found [here](https://repl.it/@LilJuiceBox491)
@@ -28,7 +28,7 @@ My repl.it page can be found [here](https://repl.it/@LilJuiceBox491)
 You can find my Glitch profile [here](https://glitch.com/@LilJuiceBox491)
 
 ### Discord
-You can add me on [Discord](https://discord.com/app). I'm LilJuiceBox491#9674 =)
+You can add me on [Discord](https://discord.com/app). I'm LilJuiceBox491#9999 =)
 
 ### Blog
 You can find my blog [here](https://juiceys-blog.liljuicebox491.repl.co/)
