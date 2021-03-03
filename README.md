@@ -1,19 +1,19 @@
 # LATEST NEWS
-I am forced to take a break from the internet. I will be offline on all connections for a few weeks. See you then!
-<br>
+I need to focus more on schoolwork and personal life. I will be much less active on all connetcions<br>
 # Hi! I'm Juicey....
 ### About Me
 Hi! I'm LilJuiceBox491! I love programming, and it would be a dream to one day be a proffesional! I hope you enjoy looking through my works! Alongisde with GitHub, you can see some of my work at: https://repl.it/@LilJuiceBox491, or just look down 
 
 ### Discord Bots
+
+**RetroBot**<br>
+top.gg link coming soon<br>
+
 **CH0ICES**<br>
-The CH0ICES project is going well! CH0ICES is 30% until Aplha stage. Below is the top.gg widget<br>
-<a href="https://top.gg/bot/783380994963144796">
-    <img src="https://top.gg/api/widget/783380994963144796.svg" alt="CH0ICES" />
-</a>
+PROJECT CH0ICES HAS BEEN CANCELLED. MY NEW BOT RETROBOT IS TAKING OVER
 
 **Gifter**<br>
-Unforunately I had to drop out of the Gifter bot project<br>
+The gifter project has been cancelled<br>
 
 **Water Bot**<br>
 WaterBot is in an alpha state and can be viewed [here on top.gg](https://top.gg/bot/799144403138248754)
@@ -35,11 +35,9 @@ You can find my blog [here](https://juiceys-blog.liljuicebox491.repl.co/)
 
 ### Activity
 I'm starting to become more busy in real life, so it might take a little time for me to respond to anything<br>
-Scratch Comments - Medium Response Time<br>
-Discord Messages - Medium Response Time<br>
-GitHub Issues - Slow Response Time<br>
-Other - Slow/Medium Response Time<br>
-**Please note these times are by average, and will be satisfied if there is no exception. Check the latest news at the top to see**
-
-### Other
-Nothing else at the moment. LOL!
+Scratch Comments - Slow Response Time (Approx 24h) <br>
+Discord Messages - Slow Response Time (Approx 24h) <br>
+Repl Comments - Slow Response Time (Approx 48h) <br>
+GitHub Issues - Slow Response Time (Approx 72h) <br>
+[Buisness Email](liljuiceboxmini@gmail.com) - Slow Response Time (Approx 120h) <br>
+Other - Slow Response Time (Depends) <br>
