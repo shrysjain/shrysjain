@@ -1,5 +1,5 @@
 # LATEST NEWS
-I need to focus more on schoolwork and personal life. I will be much less active on all connetcions<br>
+I need to focus more on schoolwork and personal life. I will be much less active on all connections. Please see the bottom part of this README <br>
 # Hi! I'm Juicey....
 ### About Me
 Hi! I'm LilJuiceBox491! I love programming, and it would be a dream to one day be a proffesional! I hope you enjoy looking through my works! Alongisde with GitHub, you can see some of my work at: https://repl.it/@LilJuiceBox491, or just look down 
