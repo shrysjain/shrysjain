@@ -7,6 +7,7 @@ Hi! I'm LilJuiceBox491! I love programming, and it would be a dream to one day b
 ### Discord Bots
 
 **RetroBot**<br>
+RetroBot is my new main Discord bot project. You can see the status page [here](https://retrobotstatus.repl.co/) for now, and also add it to your server by clicking [here](https://discord.com/oauth2/authorize?client_id=813549527398613055&scope=bot&permissions=1051718)<br>
 top.gg link coming soon<br>
 
 **CH0ICES**<br>
