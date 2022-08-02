@@ -1,7 +1,7 @@
 # LilJuiceBox491
 Node.js is Supreme
 ## About
-I am a game developer, web developer, bot developer, app developer, and swimmer who loves to program with Node.js. My favorite languages besides node are Python, HTML/CSS/JSS, and TCL.
+I am a game developer, web developer, bot developer, app developer, and swimmer who loves to program with Node.js. My favorite languages besides node are Python, HTML/CSS/JSS, and Arduino.
 ## Contact
 - Discord: LilJuiceBox491#3256
 - Scratch: LilJuiceBox491
